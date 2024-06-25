@@ -26,7 +26,7 @@
 
 ### BackEnd Platforms & Frameworks
 
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%236DB33F.svg?style=for-the-badge&logo=Django&logoColor=white)
 ![Spring Boot Badge](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=fff)
 ![Hibernate Badge](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=fff)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
@@ -86,23 +86,3 @@
 ![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=fff)
 
 ## Contact
-
-<!-- <p align="center"><p> -->
-
-<!--  <a href="" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="zsk" />
- </a> -->
- 
-<!--  ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white) -->
-<!--  ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white) -->
-
- <a href="shivaramkothapally177@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="zsk"/>
- </a>
-
- <a href="https://www.linkedin.com/in/shivaram-kothapally-a813aa179/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="zsk"/>
- </a>
-
-
-<p align="right" > <img src="https://komarev.com/ghpvc/?username=ZaahidShaik&label=Profile%20views&color=0e75b6&style=flat" alt="ZaahidShaik" /> </p>
